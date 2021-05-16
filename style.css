@@ -1,0 +1,14 @@
+h1{
+    color:skyblue;
+    background-color: red;
+}
+.origami{
+    background-color: skyblue;
+    display:flex;
+    justify-content:list-item;
+    font-family: fantasy;
+}
+.aboutus{
+    background-color: skyblue;
+  
+}
